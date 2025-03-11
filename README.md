@@ -39,7 +39,7 @@ I'm passionate about **modern web design and development trends** and experience
 
 ### 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohulnath04)  
-[![Naukiri](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.naukri.com/mnjuser/profile?id=&altresid)  
+[![Naukri](https://img.shields.io/badge/Naukri-Connect-blue?style=for-the-badge&logo=Naukri)](https://www.naukri.com/mnjuser/profile?id=&altresid)  
 📩 **Email:** mohulnath005@gmail.com  
 
 ---
