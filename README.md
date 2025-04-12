@@ -1,12 +1,12 @@
-## 👋 Welcome to My GitHub Profile!  
+# 👋 Welcome to My GitHub Profile!
 
 ### Hi there, I'm Mohulnath! 👨‍💻  
-🚀 Passionate **Frontend Developer** | 🎨 UI/UX Enthusiast  
+🚀 Passionate **Full-Stack Web Developer** | 🎨 UI/UX Enthusiast  
 
 ---
 
 ### 🔥 About Me  
-I am a **Frontend Developer** skilled in **HTML, CSS, Bootstrap, and JavaScript**. I build **responsive, user-friendly, and interactive web applications** with a strong understanding of **UI/UX** for seamless user experiences.  
+I am a **Full-Stack Web Developer** skilled in **HTML, CSS, JavaScript, Bootstrap, React.js, MongoDB, Node.js**, and **Express.js**. I build **responsive, user-friendly, and interactive web applications** with a strong understanding of **UI/UX** for seamless user experiences.  
 
 I'm passionate about **modern web design and development trends** and experienced in **creating dynamic and engaging web interfaces**. Always eager to **learn new technologies** and enhance my skills to craft better digital experiences!  
 
@@ -18,6 +18,9 @@ I'm passionate about **modern web design and development trends** and experience
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 
@@ -33,7 +36,7 @@ I'm passionate about **modern web design and development trends** and experience
 📍 *Bharathiar University (2021 - 2024)*  
 
 📜 **Certification**  
-✅ *Certificate in Front-End Development - Code99 IT Academy*  
+✅ *Certificate in Full-Stack Web Development - Code99 IT Academy*  
 
 ---
 
