@@ -1,5 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
+![Profile Views](https://komarev.com/ghpvc/?username=mohulnath&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+
 ### Hi there, I'm Mohulnath! 👨‍💻  
 🚀 Passionate **Full-Stack Web Developer** | 🎨 UI/UX Enthusiast  
 
