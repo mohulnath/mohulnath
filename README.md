@@ -39,6 +39,10 @@ I'm passionate about **modern web design and development trends** and experience
 <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />
 </span>
 
+
+### 💻 Most Used Languages  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohulnath&layout=compact&theme=radical)
+
 ### 📊 GitHub Stats  
 ![Mohulnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohulnath&show_icons=true&theme=radical)  
 
